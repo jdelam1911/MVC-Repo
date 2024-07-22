@@ -1,5 +1,12 @@
-# MVC-Repo
-This repo will allow me to use what we have learned so far for MVC, implementing its uses to make creating web app easier and more sufficient.
+# MVC Repo
+This repo will help the user create blog posts, save them, edit them, and etc!
+## Description
+With what we have learned in previous lessons, I can implement the use of saving data for the user to create their blogs, save them, and share them with others! With the use of the MVC layout, this makes it a breeze for the user to have no worries in creating their blogs!
 
-## dd
-d
+## License
+
+MIT License
+
+
+
+
